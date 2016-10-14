@@ -6,4 +6,6 @@
 {"op":"replace","path":"/planetSizes/medium/gravityRange/1","value":85},
 {"op":"replace","path":"/planetSizes/large/size/1","value":4000},
 {"op":"replace","path":"/planetSizes/large/gravityRange/0","value":85},
-{"op":"replace","path":"/planetSizes/large/gravityRange/1","value":95}]
+{"op":"replace","path":"/planetSizes/large/gravityRange/1","value":95},
+{"op":"replace","path":"/planetTypes/moon/gravityRange/0","value":15},
+{"op":"replace","path":"/planetTypes/moon/gravityRange/1","value":25}]
